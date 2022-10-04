@@ -9,6 +9,10 @@ header *, footer {
     font-family: "Coelacanth";
 }
 
+nav ul {
+    text-align: center;
+}
+
 .wtwwy {
     font-family: "Reggae One";
 }
