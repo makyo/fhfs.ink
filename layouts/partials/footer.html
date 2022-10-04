@@ -1,0 +1,7 @@
+<footer>
+    <p><a href="{{ .Site.Params.home }}">{{ .Site.Title }}</a> {{ .Site.Params.copyright }}</p>
+</footer>
+<script src="/js/footnotes.js"></script>
+{{ range .Site.Params.customJS }}
+    <script src="{{ . }}"></script>
+{{ end }}

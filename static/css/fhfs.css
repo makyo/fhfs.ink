@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Reggae+One&display=swap');
+@import url('https://fontlibrary.org//face/coelacanth');
+
+body main {
+    font-family: "Gentium Plus", serif;
+}
+
+header *, footer {
+    font-family: "Coelacanth";
+}
+
+.wtwwy {
+    font-family: "Reggae One";
+}
+
+h1, h2 {
+    font-family: "Gentium Plus", sans-serif;
+}
+
+blockquote {
+    overflow-wrap: break-word;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 2rem;
+}
+
+ul + p {
+    margin-top: 1rem;
+}
+
+dt {
+    font-size: 90%;
+    font-style: italic;
+    line-height: 1.2;
+    text-decoration: underline;
+    color: #555;
+}
+
+dt:after {
+    content: ':'
+}
+
+dd {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+table, dl, ol, ul {
+    text-align: left;
+}
+

@@ -1,0 +1,16 @@
+baseURL = 'https://fhfs.ink/'
+languageCode = 'en-us'
+title = 'The Furry Historical Fiction Society'
+theme = 'maddybook'
+paginatePath = ''
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    customCSS = ['/css/fhfs.css']
+    copyright = 2022
+    home = '/'
+
+[markup.goldmark.renderer]
+    unsafe = true
