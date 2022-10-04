@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Coelacanth';
+        src: url('CoelacanthSubhead.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Coelacanth';
+        src: url('CoelacanthSubheading.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Coelacanth';
+        src: url('CoelacanthSubheadingLight.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Coelacanth';
+        src: url('CoelacanthSubheadingSemibold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
