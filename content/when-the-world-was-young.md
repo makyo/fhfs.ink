@@ -1,7 +1,7 @@
 ---
 title: When the World Was Young
 type: page
-ogimg: /assets/img/publications/wtwwy-front.png
+ogimg: /img/wtwwy-s.png
 ---
 
 <style>
