@@ -17,7 +17,7 @@ h1, h2 {
     font-family: "Gentium Plus", sans-serif;
 }
 
-h2 a, h3 a {
+h2 a, h2 a:active, h2 a:visited, h2 a:hover, h3 a, h3 a:active, h3 a:visited, h3 a:hover {
     text-decoration: underline;
     color: #222 !important;
 }
