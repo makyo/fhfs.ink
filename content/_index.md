@@ -8,7 +8,7 @@ img {
 }
 </style>
 
-<h2 class="wtwwy">When the World Was Young</h2>
+<h2 class="wtwwy"><a href="/when-the-world-was-young">When the World Was Young</a></h2>
 
 [![When the World Was Young](/img/wtwwy-s.png)](/when-the-world-was-young)
 

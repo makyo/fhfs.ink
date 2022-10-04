@@ -17,6 +17,11 @@ h1, h2 {
     font-family: "Gentium Plus", sans-serif;
 }
 
+h2 a, h3 a {
+    text-decoration: underline;
+    color: #222 !important;
+}
+
 blockquote {
     overflow-wrap: break-word;
 }
