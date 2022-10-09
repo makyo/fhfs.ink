@@ -51,13 +51,13 @@ Proceeds will be donated to [First Nations Repatriation Institute](https://www.w
 **Kayodé Lycaon** | "Priest of Lilies"
 **Rob MacWolf** | "Let Him That Speaketh Fate to Men Have No Fate Of His Own"
 **Thomas "Faux" Steele** | "The Shrine of T-am-ădad"
+**Haya Baru** | "Unmourned"
 
 ### Iron
 
    |   
 ---|---
 **J.S. Hawthorne** | "The Last Giant"
-**Haya Baru** | "Unmourned"
 **Pascal Farful** | "Requiem"
 **Casimir Laski** | "Mark of the Stranger"
 
