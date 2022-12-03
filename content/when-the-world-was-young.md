@@ -23,11 +23,9 @@ Excavate these writings, then. Decipher them carefully. Let them, at last, convi
 
 Proceeds will be donated to [First Nations Repatriation Institute](https://www.wearecominghome.org/) and [Indigenous Roots & Reparation Foundation](https://www.indigenousrrf.org/).
 
-**Coming December 1, 2022, available at Midwest FurFest!**
-
 <div class="buy">
-<a href="https://makyo.itch.io/wtwwy" target="_blank">Pre-order ebook</a>
-<a href="https://makyo-ink.square.site/product/when-the-world-was-young-a-prehistoric-anthology/13">Pre-order paperback</a>
+<a href="https://makyo.itch.io/wtwwy" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/when-the-world-was-young-a-prehistoric-anthology/13">Order paperback</a>
 </div>
 
 -----
