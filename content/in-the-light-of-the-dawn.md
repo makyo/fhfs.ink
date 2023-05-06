@@ -20,37 +20,39 @@ We invented writing to preserve our stories and to share them with each other. F
 
 Hear us, then. Listen to the stories passed down from the earliest foundations of civilizations, to the creation of nations and empires. Hear the stories of the grandest rulers to the humblest peasants. The world is not so young as it was, but walk with us in these tales of antiquity: *In the Light of the Dawn.*
 
+*Coming July 1, 2023!*
+
 -----
 
 ### Axial
 
    |   
 ---|---
-   | "The Price of Copper"
-   | "Exile From the Land of Giant Turtles"
-   | "As the Gods Demand"
-   | "The Vixen with the Crooked Muzzle"
-   | "Heka "
-   | "A Fortune in Ruins"
+**Utunu** | "The Price of Copper"
+**Gar "Sahoni" Atkins** | "Exile From the Land of Giant Turtles"
+**NightEyes DaySpring** | "As the Gods Demand"
+**Casterway** | "The Vixen with the Crooked Muzzle"
+**Faolan** | "Heka"
+**Fopfox** | "A Fortune in Ruins"
 
 ### Classical
 
    |   
 ---|---
-   | "The Mouse from Mykonos"
-   | "The Satrap's Mark"
-   | "A Perfectly Normal Day"
-   | "The Lament of the Batavii"
-   | "The Merchant and the Martyr"
-   | "Fire And Brimstone"
-   | "...and the Sands of the Desert Wash over the Words"
-   | "Eulalius!"
-   | "Tomes Entombed Within Me"
+**Huskyteer** | "The Mouse from Mykonos"
+**Thomas "Faux" Steele** | "The Satrap's Mark"
+**Kayodé Lycaon** | "A Perfectly Normal Day"
+**J.S. Hawthorne** | "The Lament of the Batavii"
+**Casimir Laski** | "The Merchant and the Martyr"
+**J.F.R. Coates** | "Fire And Brimstone"
+**Pascal Farful** | "...and the Sands of the Desert Wash over the Words"
+**Ziegenbock** | "Eulalius!"
+**Domus Vocis** | "Tomes Entombed Within Me"
 
 ### Late
 
    |   
 ---|---
-   | "To Your Own Defenses"
-   | "Go to the Road, and Ask Any Passing Traveler"
-   | "The Traces of Thomas Antiochus Macrotis"
+**Televassi** | "To Your Own Defenses"
+**Rob MacWolf** | "Go to the Road, and Ask Any Passing Traveler"
+**Rose LaCroix** | "The Traces of Thomas Antiochus Macrotis"
