@@ -43,7 +43,7 @@ Hear us, then. Listen to the stories passed down from the earliest foundations o
    | "The Lament of the Batavii"
    | "The Merchant and the Martyr"
    | "Fire And Brimstone"
-   | ...and the Sands of the Desert Wash over the Words
+   | "...and the Sands of the Desert Wash over the Words"
    | "Eulalius!"
    | "Tomes Entombed Within Me"
 
