@@ -10,6 +10,9 @@ main h1, h2, h3 {
 h3 {
     text-align: center;
 }
+td:nth-of-type(2) {
+    padding-left: 0.5rem;
+    }
 </style>
 
 ## An Anthology of Antiquity
