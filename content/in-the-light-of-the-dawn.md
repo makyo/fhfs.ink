@@ -45,7 +45,7 @@ Hear us, then. Listen to the stories passed down from the earliest foundations o
 **J.S. Hawthorne** | "The Lament of the Batavii"
 **Casimir Laski** | "The Merchant and the Martyr"
 **J.F.R. Coates** | "Fire And Brimstone"
-**Pascal Farful** | "...and the Sands of the Desert Wash over the Words"
+**Pascal Farful** | "...and the Sands of the Desert Wash Over the Words"
 **Ziegenbock** | "Eulalius!"
 **Domus Vocis** | "Tomes Entombed Within Me"
 
