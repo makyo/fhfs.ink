@@ -23,6 +23,8 @@ Excavate these writings, then. Decipher them carefully. Let them, at last, convi
 
 Proceeds will be donated to [First Nations Repatriation Institute](https://www.wearecominghome.org/) and [Indigenous Roots & Reparation Foundation](https://www.indigenousrrf.org/).
 
+***Winner of the 2022 Cóyotl Award for Best Anthology***
+
 <div class="buy">
 <a href="https://makyo.itch.io/wtwwy" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/when-the-world-was-young-a-prehistoric-anthology/13">Order paperback</a>
