@@ -23,7 +23,7 @@ Excavate these writings, then. Decipher them carefully. Let them, at last, convi
 
 Proceeds will be donated to [First Nations Repatriation Institute](https://www.wearecominghome.org/) and [Indigenous Roots & Reparation Foundation](https://www.indigenousrrf.org/).
 
-***Winner of the 2022 Cóyotl Award for Best Anthology***
+***Winner of the 2022 Cóyotl Award for Best Anthology and recipient of the Leo Literary Award for Anthology and for Cover Art***
 
 <div class="buy">
 <a href="https://makyo.itch.io/wtwwy" target="_blank">Order ebook</a>
@@ -37,7 +37,7 @@ Proceeds will be donated to [First Nations Repatriation Institute](https://www.w
    |   
 ---|---
 **SakaraFox** | "The Dance of Peruvaan"
-**Utunu** | "Lids"
+**Utunu** | "Lids"[^lids]
 **Huskyteer** | "Worn-Out Tools"
 **J.F.R. Coates** | "Howling to the Moon"
 **NightEyes DaySpring** | "The Eyeshine of the Soothsayer"
@@ -49,7 +49,7 @@ Proceeds will be donated to [First Nations Repatriation Institute](https://www.w
 ---|---
 **Madison Scott-Clary** | "Unseeing"
 **Kayodé Lycaon** | "Priest of Lilies"
-**Rob MacWolf** | "Let Him That Speaketh Fate to Men Have No Fate Of His Own"
+**Rob MacWolf** | "Let Him That Speaketh Fate to Men Have No Fate Of His Own"[^speaketh]
 **Thomas "Faux" Steele** | "The Shrine of T-am-ădad"
 **Haya Baru** | "Unmourned"
 
@@ -59,5 +59,12 @@ Proceeds will be donated to [First Nations Repatriation Institute](https://www.w
 ---|---
 **J.S. Hawthorne** | "The Last Giant"
 **Pascal Farful** | "Requiem"
-**Casimir Laski** | "Mark of the Stranger"
+**Casimir Laski** | "Mark of the Stranger"[^stranger]
+
+
+[^lids]: Winner of the 2022 Cóyotl Award for Best Short Story and recipient of the Leo Literary Award for Short Story.
+
+[^speaketh]: Recipient of the Leo Literary Award for Short Story.
+
+[^stranger]: Recipient of the Leo Literary Award for Short Story.
 
