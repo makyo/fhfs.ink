@@ -22,6 +22,11 @@ Hear us, then. Listen to the stories passed down from the earliest foundations o
 
 *Coming July 1, 2023!*
 
+<div class="buy">
+<a href="https://makyo.itch.io/itlotd" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/in-the-light-of-the-dawn-an-anthology-of-antiquity/16">Order paperback</a>
+</div>
+
 -----
 
 ### Axial
