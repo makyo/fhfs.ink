@@ -20,8 +20,6 @@ We invented writing to preserve our stories and to share them with each other. F
 
 Hear us, then. Listen to the stories passed down from the earliest foundations of civilizations, to the creation of nations and empires. Hear the stories of the grandest rulers to the humblest peasants. The world is not so young as it was, but walk with us in these tales of antiquity: *In the Light of the Dawn.*
 
-*Coming July 1, 2023!*
-
 <div class="buy">
 <a href="https://makyo.itch.io/itlotd" target="_blank">Order ebook</a>
 <a href="https://makyo-ink.square.site/product/in-the-light-of-the-dawn-an-anthology-of-antiquity/16">Order paperback</a>
