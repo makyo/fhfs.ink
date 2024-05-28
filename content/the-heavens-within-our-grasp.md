@@ -20,7 +20,7 @@ h3 {
 
 ## A Medieval Anthology
 
-<img src="/img/thwog.png" style="margin: 0 auto; display: block; width: 500px; max-width: 100%; margin-bottom: 1rem;">
+<img src="/img/thwog.jpg" style="margin: 0 auto; display: block; width: 500px; max-width: 100%; margin-bottom: 1rem;">
 
 When empires collapse, when plague and invasion threaten, when the knowledge and culture of the old order is slipping away and being forgotten, it is writing that safeguards the future.
 

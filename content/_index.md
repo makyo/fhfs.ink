@@ -8,6 +8,7 @@ img {
 }
 </style>
 
+
 <h2 class="wtwwy"><a href="/when-the-world-was-young">When the World Was Young</a></h2>
 
 [![When the World Was Young](/img/wtwwy-s.png)](/when-the-world-was-young)
@@ -25,3 +26,14 @@ Excavate these writings, then. Decipher them carefully. Let them, at last, convi
 We invented writing to preserve our stories and to share them with each other. From the mistiest stretches of history we find scraps and pieces of tales we told each other, forming the myths, legends, and dramas that persist to this day.
 
 Hear us, then. Listen to the stories passed down from the earliest foundations of civilizations, to the creation of nations and empires. Hear the stories of the grandest rulers to the humblest peasants. The world is not so young as it was, but walk with us in these tales of antiquity: *In the Light of the Dawn.*
+
+-----
+
+<h2 class="thwog"><a href="/the-heavens-within-our-grasp">The Heavens Within Our Grasp</a></h2>
+
+[![The Heavens Within Our Grasp](/img/thwog-s.png)](/the-heavens-within-our-grasp)
+
+When empires collapse, when plague and invasion threaten, when the knowledge and culture of the old order is slipping away and being forgotten, it is writing that safeguards the future.
+
+Study these tales, then. By candlelight, by lamplight, by the noonday sun. Find in them the strength, and weakness, of feudal monarchs, the piety of monks both literal and figurative, and the fear of forgetting and being forgotten that is the beginning of knowledge: for it is these which may yet put *The Heavens Within Our Grasp*.
+
