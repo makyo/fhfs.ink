@@ -50,7 +50,6 @@ Study these tales, then. By candlelight, by lamplight, by the noonday sun. Find 
 **Valduin** | "Siegewalkers"
 **Rob MacWolf** | "Midway in the Journey of Our Lives"
 **Domus Vocis** | "Scapegoat"
-**Casimir Laski** | "The Merchant and the Martyr"
 **J.S. Hawthorne** | "Under the Empty Sky"
 
 ### Late
