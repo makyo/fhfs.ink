@@ -10,6 +10,10 @@ header *, footer {
     font-family: "Coelacanth";
 }
 
+header, footer {
+    max-width: 100%;
+}
+
 nav ul {
     text-align: center;
 }
@@ -33,6 +37,17 @@ h1, h2 {
 h2 a, h2 a:active, h2 a:visited, h2 a:hover, h3 a, h3 a:active, h3 a:visited, h3 a:hover {
     text-decoration: underline;
     color: #222 !important;
+}
+
+.dark-mode h2 a, 
+.dark-mode h2 a:active, 
+.dark-mode h2 a:visited, 
+.dark-mode h2 a:hover, 
+.dark-mode h3 a, 
+.dark-mode h3 a:active, 
+.dark-mode h3 a:visited, 
+.dark-mode h3 a:hover {
+    color: #fff !important;
 }
 
 blockquote {

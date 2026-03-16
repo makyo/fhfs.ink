@@ -21,13 +21,11 @@ The invention of writing postdates, invariably, the invention of storytelling. A
 
 Excavate these writings, then. Decipher them carefully. Let them, at last, convince you to forget writing until instead they sit across the fire, speaking to you oral traditions, folktales, and of days long, long past *When the World Was Young*.
 
-Proceeds will be donated to [First Nations Repatriation Institute](https://www.wearecominghome.org/) and [Indigenous Roots & Reparation Foundation](https://www.indigenousrrf.org/).
-
 ***Winner of the 2022 Cóyotl Award for Best Anthology and recipient of the Leo Literary Award for Anthology and for Cover Art***
 
 <div class="buy">
-<a href="https://makyo.itch.io/wtwwy" target="_blank">Order ebook</a>
-<a href="https://makyo-ink.square.site/product/when-the-world-was-young-a-prehistoric-anthology/13">Order paperback</a>
+<a href="https://www.tfpublishing.com.au/store/when-the-world-was-young-ebook" target="_blank">Order ebook</a>
+<a href="https://www.tfpublishing.com.au/store/when-the-world-was-young" target="_blank">Order paperback</a>
 </div>
 
 -----

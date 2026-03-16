@@ -26,9 +26,11 @@ When empires collapse, when plague and invasion threaten, when the knowledge and
 
 Study these tales, then. By candlelight, by lamplight, by the noonday sun. Find in them the strength, and weakness, of feudal monarchs, the piety of monks both literal and figurative, and the fear of forgetting and being forgotten that is the beginning of knowledge: for it is these which may yet put *The Heavens Within Our Grasp*.
 
+***Winner of the 2024 Cóyotl Award for Best Anthology***
+
 <div class="buy">
-<a href="https://makyo.itch.io/thwog" target="_blank">Order ebook</a>
-<a href="https://makyo-ink.square.site/product/the-heavens-within-our-grasp-a-medieval-anthology/20">Order paperback</a>
+<a href="https://www.tfpublishing.com.au/store/the-heavens-within-our-grasp-ebook" target="_blank">Order ebook</a>
+<a href="https://www.tfpublishing.com.au/store/the-heavens-within-our-grasp" target="_blank">Order paperback</a>
 </div>
 
 -----
@@ -56,7 +58,7 @@ Study these tales, then. By candlelight, by lamplight, by the noonday sun. Find 
 
    |   
 ---|---
-**Utunu** | "Houses of Stone"
+**Utunu** | "Houses of Stone" [^stone]
 **Casimir Laski** | "The Abbey of Saint Vera"
 **Rose LaCroix** | "Where His Side Was Pierced"
 **Thomas "Faux" Steele** | "The Golden Son of Rahe Neer"
@@ -64,3 +66,5 @@ Study these tales, then. By candlelight, by lamplight, by the noonday sun. Find 
 **Ziegenbock** | "The Course of the Reiver"
 **Faolan** | "One Book to Burn"
 **Pascal Farful** | "Heaven Will Weigh the Heart of Stone"
+
+[^stone]: Winner of the 2024 Cóyotl Award for Best Short Story

@@ -37,3 +37,12 @@ When empires collapse, when plague and invasion threaten, when the knowledge and
 
 Study these tales, then. By candlelight, by lamplight, by the noonday sun. Find in them the strength, and weakness, of feudal monarchs, the piety of monks both literal and figurative, and the fear of forgetting and being forgotten that is the beginning of knowledge: for it is these which may yet put *The Heavens Within Our Grasp*.
 
+-----
+
+<h2 class="twotw"><a href="/the-wideness-of-the-world">The Wideness of the World</a></h2>
+
+[![The Wideness of the World](/img/twotw-s.png)](/the-wideness-of-the-world)
+
+Widespread literacy is perhaps the watershed between what we call the modern era and all that came before. When every merchant, every soldier, and every sailor can record their tales, then stories from one end of the earth may reach, and be told, at the other.
+
+Discover, then, these stories: on the printing press, up the forecastle, on an uninhabited isle across uncharted seas, or just around the corner nailed to the cathedral door. Follow them as they spread from tavern to theatre, from dockside to cloister, from palace to slum and back, until they encompass *The Wideness of the World*.
